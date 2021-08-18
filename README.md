@@ -1,5 +1,5 @@
 # mandelbulber
-Mandelbulber in CUDA container ( in developmet )
+Mandelbulber in CUDA container ( in development )
 
 Deploy WebUI controller images by invoking docker controller image, or deploy in similar fashion on your favorite orchestrator
 
