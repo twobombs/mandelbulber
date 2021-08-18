@@ -1,7 +1,7 @@
 # mandelbulber
 Mandelbulber in CUDA container ( in developmet )
 
-Deploy WebUI controller images by invoking docker controller image,or deploy in similar fashion on your favorite (k8s/k3d/k3s/docker compatible) orchestrator
+Deploy WebUI controller images by invoking docker controller image, or deploy in similar fashion on your favorite orchestrator
 
 docker run --gpus all --privileged -p 6080:6080 --device=/dev/dri:/dev/dri -d twobombs/mandelbulber
 
